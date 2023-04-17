@@ -1,2 +1,2 @@
-# cs2105
+# CS2105
 Introduction to Computer Networks
